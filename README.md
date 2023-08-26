@@ -18,7 +18,7 @@ It’s advised to build Django projects in virtual environments. A virtual envir
 
 It allows developers to build a distinct environment with its own set of installed packages and Python interpreters, ensuring that the project's dependencies are consistent and do not conflict with other projects.
 
-Developers can quickly manage and install packages tailored to their projects by using a virtual environment, facilitating effective collaboration and deployment. Read more to know how to get started with a virtual environment for Python.
+Developers can quickly manage and install packages tailored to their projects by using a virtual environment, facilitating effective collaboration and deployment. Read more to know [how to get started with a virtual environment for Python](https://github.com/SerahNderitu/Getting-Started-with-Django/blob/main/README.md#creating-djangos-virtual-environment).
 
 If have already followed; how to get started with a virtual environment for Python, you have a virtual environment installed and activated in the location where you have your Django installation.
 
